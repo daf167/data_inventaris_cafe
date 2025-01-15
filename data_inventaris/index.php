@@ -1,5 +1,5 @@
 <?php
-// Anda bisa menambahkan logika PHP di sini jika diperlukan.
+// 
 ?>
 <!DOCTYPE html>
 <html lang="en">
